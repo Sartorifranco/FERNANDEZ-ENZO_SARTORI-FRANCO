@@ -1,0 +1,7 @@
+[2023-10-26 02:01:26][INFO ][com.backend.parcial.TestLog:8]Empezamos nuestro metodo MAIN
+[2023-10-26 02:01:27][ERROR][com.backend.parcial.TestLog:13]Error por dividir por cero
+java.lang.ArithmeticException: / by zero
+	at com.backend.parcial.com.backend.parcial.TestLog.main(com.backend.parcial.TestLog.java:11)
+[2023-10-26 02:01:27][WARN ][com.backend.parcial.TestLog:15]Advertencia el metodo MAIN esta por finalizar
+[2023-10-26 02:01:27][DEBUG][com.backend.parcial.TestLog:16]Esto va a mostrarse solo si el infoLogger esta en DEBUG
+[2023-10-26 02:01:27][INFO ][com.backend.parcial.TestLog:17]Finalizamos el thread MAIN
